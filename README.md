@@ -3,30 +3,30 @@
 ## Table of Contents
 
 * Title
-	- [Notenik](1-title-notenik)
+	- [Notenik](#1-title-notenik)
 * Rights
-	- [Rights and Authorship](2-rights-rights-and-authorship)
+	- [Rights and Authorship](#2-rights-rights-and-authorship)
 * Introduction
-	- [The Problem](3-introduction-the-problem)
-	- [A Modest Proposal](4-introduction-a-modest-proposal)
-	- [A Bit of Inspiration](5-introduction-a-bit-of-inspiration)
-	- [Mission](6-introduction-mission)
-	- [Technology](7-introduction-technology)
-	- [The Notenik Name](8-introduction-the-notenik-name)
+	- [The Problem](#3-introduction-the-problem)
+	- [A Modest Proposal](#4-introduction-a-modest-proposal)
+	- [A Bit of Inspiration](#5-introduction-a-bit-of-inspiration)
+	- [Mission](#6-introduction-mission)
+	- [Technology](#7-introduction-technology)
+	- [The Notenik Name](#8-introduction-the-notenik-name)
 * Conceptual Model
-	- [A Conceptual Object Model](9-conceptual-model-a-conceptual-object-model)
+	- [A Conceptual Object Model](#9-conceptual-model-a-conceptual-object-model)
 * Objects
-	- [Provider](10-objects-provider)
-	- [Realm](11-objects-realm)
-	- [Collection](12-objects-collection)
-	- [User](13-objects-user)
-	- [Group](14-objects-group)
-	- [Access Rule](15-objects-access-rule)
-	- [Note](16-objects-note)
-	- [Tag](17-objects-tag)
-	- [Stream](18-objects-stream)
+	- [Provider](#10-objects-provider)
+	- [Realm](#11-objects-realm)
+	- [Collection](#12-objects-collection)
+	- [User](#13-objects-user)
+	- [Group](#14-objects-group)
+	- [Access Rule](#15-objects-access-rule)
+	- [Note](#16-objects-note)
+	- [Tag](#17-objects-tag)
+	- [Stream](#18-objects-stream)
 * Attributes
-	- [Stage](19-attributes-stage)
+	- [Stage](#19-attributes-stage)
 
 
 
@@ -44,7 +44,7 @@ This program, including its documentation, is free software: you can redistribut
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with this program.  If not, see [http://www.gnu.org/licenses/][gpl].
+You should have received a copy of the GNU General Public License along with this program.  If not, see [www.gnu.org/licenses/][gpl].
 
 You can find the source code for this program at [github.com/hbowie/notenik-net][github]. 
 
